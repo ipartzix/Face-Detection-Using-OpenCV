@@ -39,8 +39,8 @@ python face_detection.py
    - Press 'A' to exit the program.
 
 ## Demo Screenshots
-![Face Detection - Demo 1](https://via.placeholder.com/600x300?text=Face+Detection+Demo+1)
-![Face Detection - Demo 2](https://via.placeholder.com/600x300?text=Face+Detection+Demo+2)
+![Screenshot (262)](https://github.com/user-attachments/assets/1b078a4b-4b7d-42a8-abed-58428c352bf5)
+![Screenshot (264)](https://github.com/user-attachments/assets/20fb161d-0150-4f3c-99ea-1b6ed70f2dfd)
 
 ## License
 This project is open-source and available under the MIT License.
